@@ -2,10 +2,10 @@
 
 | Trường | Thông tin |
 |---|---|
-| Mã học viên | 2A202601587 |
-| Họ và tên | Lê Hà Hải Vân |
+| Mã học viên | 2A202601693 |
+| Họ và tên | Nguyễn Thị Tuyết Mai |
 | Nhóm | Flaiiin |
-| Đóng góp cá nhân | Thiết kế dataset/rubric, chạy eval, chấm độc lập, calibration hoặc report — **chỉnh lại theo đóng góp thật** |
+| Đóng góp cá nhân | Thiết kế dataset/rubric, chạy eval, chấm độc lập, calibration hoặc report |
 | Verdict | **HOLD — quote_verbatim 11/24 (45.8%), complete calibration evidence (v1: 67%, v2: 88.9%, holdout: 83.3%)** |
 
 
